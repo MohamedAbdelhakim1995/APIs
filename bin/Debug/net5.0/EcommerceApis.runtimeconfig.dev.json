@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hakem\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hakem\\.nuget\\packages"
+    ]
+  }
+}
